@@ -13,5 +13,10 @@
   "bugs": {
     "url": "https://github.com/bendrucker/bookshelf-616/issues"
   },
-  "homepage": "https://github.com/bendrucker/bookshelf-616"
+  "homepage": "https://github.com/bendrucker/bookshelf-616",
+  "dependencies": {
+    "bookshelf": "~0.7.9",
+    "knex": "~0.7.3",
+    "sqlite3": "~3.0.4"
+  }
 }
