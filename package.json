@@ -1,0 +1,17 @@
+{
+  "name": "bookshelf-616",
+  "private": true,
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bendrucker/bookshelf-616.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bendrucker/bookshelf-616/issues"
+  },
+  "homepage": "https://github.com/bendrucker/bookshelf-616"
+}
